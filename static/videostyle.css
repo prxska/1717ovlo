@@ -30,6 +30,10 @@ header {
 
 }
 
+a:hover {
+    color: gray;
+}
+
 li {
     list-style: none;
 }

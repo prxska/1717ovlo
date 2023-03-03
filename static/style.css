@@ -27,7 +27,14 @@ header {
 
 li {
     list-style: none;
+
 }
+
+a:hover{
+    color: grey;
+}
+    
+
 
 nav {
     display: flex;
